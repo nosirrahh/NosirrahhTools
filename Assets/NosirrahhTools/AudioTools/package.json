@@ -1,0 +1,14 @@
+{
+    "name": "com.nosirrahh.nosirrahhtools.audiotools",
+    "version": "1.0.0",
+    "displayName": "AudioTools",
+    "description": "The AudioTools package.",
+    "unity": "2022.1",
+    "dependencies": {},
+    "keywords": ["tools", "audio"],
+    "author": {
+        "name": "nosirrahh",
+        "email": "nosirrahh@gmail.com",
+        "url": "https://github.com/nosirrahh/"
+    }
+}
