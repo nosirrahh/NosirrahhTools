@@ -1,0 +1,14 @@
+{
+    "name": "com.nosirrahh.nosirrahhtools.addressablestools",
+    "version": "1.0.0",
+    "displayName": "AddressablesTools",
+    "description": "The AddressablesTools package.",
+    "unity": "2022.1",
+    "dependencies": {},
+    "keywords": ["tools", "addressables"],
+    "author": {
+        "name": "nosirrahh",
+        "email": "nosirrahh@gmail.com",
+        "url": "https://github.com/nosirrahh/"
+    }
+}
