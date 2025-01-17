@@ -4,7 +4,9 @@
     "displayName": "NosirrahhTools",
     "description": "The full package.",
     "unity": "2022.1",
-    "dependencies": {},
+    "dependencies": {
+        "com.unity.addressables": "1.0.0"
+    },
     "keywords": ["tools"],
     "author": {
         "name": "nosirrahh",
