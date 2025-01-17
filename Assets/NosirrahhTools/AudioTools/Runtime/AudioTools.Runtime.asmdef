@@ -2,9 +2,9 @@
     "name": "AudioTools.Runtime",
     "rootNamespace": "",
     "references": [
-        "GUID:84651a3751eca9349aac36a66bba901b",
-        "GUID:2916a8d56235cdd4896c4c3a67ec9ea1",
-        "GUID:e66a0c1db6ddef541ac03761e6187f6d"
+        "Unity.ResourceManager",
+        "CoreTools.Runtime",
+        "AddressablesTools.Runtime"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
