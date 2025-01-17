@@ -1,0 +1,14 @@
+{
+    "name": "com.nosirrahh.nosirrahhtools",
+    "version": "1.0.0",
+    "displayName": "NosirrahhTools",
+    "description": "The full package.",
+    "unity": "2022.1",
+    "dependencies": {},
+    "keywords": ["tools"],
+    "author": {
+        "name": "nosirrahh",
+        "email": "nosirrahh@gmail.com",
+        "url": "https://github.com/nosirrahh/"
+    }
+}
