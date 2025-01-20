@@ -1,45 +1,14 @@
-# NosirrahhTools
+# Nosirrahhtools
 
-The full package.
+The unity project.
 
-## Installation
-1. Open your Unity project.
-2. Add the package via the Package Manager:
-   ```
-   https://github.com/nosirrahh/NosirrahhTools.git?path=Assets/NosirrahhTools/
-   ```
+## Packages
 
-## Separate packages
+For the full package, see the corresponding `README.md` file.
+- [NosirrahhTools](./Assets/NosirrahhTools/README.md) 
 
-### CoreTools
+For more details about each package, see the corresponding `README.md` file.
 
-...
-
-#### Installation
-1. Open your Unity project.
-2. Add the package via the Package Manager:
-   ```
-   https://github.com/nosirrahh/NosirrahhTools.git?path=Assets/NosirrahhTools/CoreTools/
-   ```
-
-### AudioTools
-
-...
-
-#### Installation
-1. Open your Unity project.
-2. Add the package via the Package Manager:
-   ```
-   https://github.com/nosirrahh/NosirrahhTools.git?path=Assets/NosirrahhTools/AudioTools/
-   ```
-
-### AddressablesTools
-
-...
-
-#### Installation
-1. Open your Unity project.
-2. Add the package via the Package Manager:
-   ```
-   https://github.com/nosirrahh/NosirrahhTools.git?path=Assets/NosirrahhTools/AddressablesTools/
-   ```
+- [AddressablesTools](./Assets/NosirrahhTools/AddressablesTools/README.md).
+- [AudioTools](./Assets/NosirrahhTools/AudioTools/README.md).
+- [CoreTools](./Assets/NosirrahhTools/CoreTools/README.md).
