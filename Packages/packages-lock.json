@@ -1,5 +1,33 @@
 {
   "dependencies": {
+    "com.nosirrahh.unityaddressablestools": {
+      "version": "https://github.com/nosirrahh/UnityAddressablesTools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.addressables": "1.0.0",
+        "com.nosirrahh.unitycoretools": "1.0.0"
+      },
+      "hash": "fc2590aa0e3f5f3590d2c6eb3e975d2179a20bc9"
+    },
+    "com.nosirrahh.unityaudiotools": {
+      "version": "https://github.com/nosirrahh/UnityAudioTools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.addressables": "1.0.0",
+        "com.nosirrahh.unitycoretools": "1.0.0",
+        "com.nosirrahh.unityaddressablestools": "1.0.0"
+      },
+      "hash": "7ecb9308f922d1fc430e9337c5dfdcbce8f02caf"
+    },
+    "com.nosirrahh.unitycoretools": {
+      "version": "https://github.com/nosirrahh/UnityCoreTools.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "4e0750b267865aec5859aa8b676f6e6f836a9422"
+    },
     "com.unity.2d.sprite": {
       "version": "1.0.0",
       "depth": 0,
