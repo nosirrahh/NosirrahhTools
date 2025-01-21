@@ -2,6 +2,13 @@
 
 ...
 
+## Dependencies
+
+Before installing this package, make sure the following dependencies are pre-installed in your Unity project:
+
+- [Addressables](https://docs.unity3d.com/Packages/com.unity.addressables@2.3/manual/index.html) (```com.unity.addressables```) - Version ```1.0.0``` or higher
+- [CoreTools](../CoreTools/README.md) (```com.nosirrahh.coretools```) - Version ```1.0.0``` or higher
+
 ## Installation
 1. Open your Unity project.
 2. Add the package via the Package Manager:
