@@ -6,8 +6,8 @@
     "unity": "2022.1",
     "dependencies": {
         "com.unity.addressables": "1.0.0",
-        "com.nosirrahh.coretools": "1.0.0",
-        "com.nosirrahh.addressablestools": "1.0.0"
+        "com.nosirrahh.coretools": "https://github.com/nosirrahh/NosirrahhTools.git?path=Assets/NosirrahhTools/CoreTools/",
+        "com.nosirrahh.addressablestools": "https://github.com/nosirrahh/NosirrahhTools.git?path=Assets/NosirrahhTools/AddressablesTools/"
     },
     "keywords": ["tools", "audio"],
     "author": {
