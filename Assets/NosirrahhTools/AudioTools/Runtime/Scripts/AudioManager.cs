@@ -105,7 +105,8 @@ namespace NosirrahhTools.AudioTools
         /// <param name="playAudioInfo">The playback information of the audio to stop.</param>
         public void StopAudio (AudioPlayback playAudioInfo)
         {
-            StopAudio (playAudioInfo.Id);
+            if (playAudioInfo != null)
+                StopAudio (playAudioInfo.Id);
         }
 
         /// <summary>
